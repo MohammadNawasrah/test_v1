@@ -1,0 +1,13 @@
+git clone use to clone any repo from github
+
+git status for git state for all file and folder
+
+git add . / use for add all file modifed or new file and folder to stage
+
+git reset head "fileName" / use remove file or folder from stage 
+
+git commit -m "your massage" / use to create massage for github to know what do you do .
+
+git remote -v / use to get remote url for your project clone in gethub
+
+git branch /use to get branch name 
