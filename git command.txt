@@ -11,3 +11,8 @@ git commit -m "your massage" / use to create massage for github to know what do 
 git remote -v / use to get remote url for your project clone in gethub
 
 git branch /use to get branch name 
+
+git push "remoteName" "brachName" / use to set all changes in local to remote in git hub'
+
+git pull "remoteName" / use to fetch all data from server github and display in your local 
+
