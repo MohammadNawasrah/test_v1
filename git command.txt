@@ -23,3 +23,15 @@ git remote add origin "url for repo" /use to add remote origin in my local devis
 git push -u "remoteName" "brachName" / use to create pull then push request in remote 
 
 git config --global alias."yourAlias" "any command you alias it" / ust to create alias for command 
+
+git branch "new brachName you will create" / create local branch 
+
+git checkout "brachName" / use to choose branch that have name brachName
+
+git brach -d "brachName" /ust to delete brach if has brachName
+
+git checkout -b "new branchName" / create brach and go to it brach
+
+git brach -m "new nameBranch" / change branch name 
+
+git merge "brachName" /merge two branch
