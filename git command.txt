@@ -21,3 +21,5 @@ git init / use to initial new repo on you'r local computer
 git remote add origin "url for repo" /use to add remote origin in my local devise 
 
 git push -u "remoteName" "brachName" / use to create pull then push request in remote 
+
+git config --global alias."yourAlias" "any command you alias it" / ust to create alias for command 
