@@ -12,8 +12,12 @@ git remote -v / use to get remote url for your project clone in github
 
 git branch /use to get branch name 
 
-git push "remoteName" "brachName" / use to set all changes in local to remote in git hub'
+git push "remoteName" "branchName" / use to set all changes in local to remote in git hub'
 
 git pull "remoteName" / use to fetch all data from server github and display in your local 
 
 git init / use to initial new repo on you'r local computer 
+
+git remote add origin "url for repo" /use to add remote origin in my local devise 
+
+git push -u "remoteName" "brachName" / use to create pull then push request in remote 
